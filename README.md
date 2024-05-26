@@ -13,7 +13,7 @@ For more information, please visit [https://edgegap.com](https://edgegap.com)
 ## Installation
 Put the package under your project folder and add the following in import:
 ```golang
-import "./swagger"
+import "github.com/cajun-pro-llc/edgegap-swagger"
 ```
 
 ## Documentation for API Endpoints
